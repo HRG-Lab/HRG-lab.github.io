@@ -1,87 +1,45 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
+- name: Gregory H Huff
+  photo: huff-gregory.jpg
+  info: Associate professor
+  email: ghuff@psu.edu
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: PhD, Electrical Engineering, <a href="http://antennas.ece.illinois.edu/">University of Illinois at Urbana-Champaign</a>, 2006
+  education2: MS, Electrical Engineering, University of Illinois at Urbana-Champaign, 2003
+  education3: BS, Electrical Engineering, University of Illinois at Urbana-Champaign, 2000
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+- name: Deanna Sessions
+  photo: sessions-deanna.jpg
+  info: PhD Student, started Fall 2018, est. grad 2021
+  email: dms1104@psu.edu
   number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
+  education1: MS, Electrical Engineering, Pennsylvania State University, 2019
+  education2: BS, Electrical Engineering, Texas A&amp;M University, 2016
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
+- name: Nick Mai
+  photo: mai-nick.jpg
+  info: PhD Student, started Fall 2019, est. grad 2022
+  email: nqm5487@psu.edu
+  number_educ: 3
+  education1: MS, Electrical Engineering, Johns Hopkins University, 2017
+  education2: BS, Electrical Engineering, Texas A&amp;M University, 2013
+  education3: BS, Pure Mathematics, Texas A&amp;M University, 2013
+
+- name: Bailey Campbell
+  photo: campbell-bailey.jpg
+  info: PhD Student, started Fall 2018
+  email: baileycampbell@psu.edu
   number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  education1: MS, Electrical Engineering, Johns Hopkins University, 2019
+  education2: BS, Electrical Engineering, Texas A&amp;M University, 2017
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
-  education3:
-  education4:
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+- name: Wenbo Liu
+  photo: liu-wenbo.jpg
+  info: PhD Student, started Fall 2019
+  email: wzl37@psu.edu
+  number_educ: 4
+  education1: MEng, Electrical Engineering, Texas A&amp;M University, 2019
+  education2: MSc, Electrical Engineering, University of Birmingham, 2015
+  education3: BEng, Electrical Engineering, Bristol University
 
 - name: "This could be you !"
   photo: rock.jpg

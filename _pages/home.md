@@ -1,16 +1,16 @@
 ---
-title: "Allan Lab - Home"
+title: "HRG Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Huff Research Group at Penn State."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Our research program is built around the premise that innovation is a hands-on activity. We leverage creativity and technical expertise to apply this philosophy and take our transformative concepts in engineering, art, science, and technology from theory into practice. Our main research focuses lie in the realm of applied electromagnetics including novel functional electromagnetic materials, agile antenna apertures, and wireless communications systems.
 
-
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
+    <!- - Menu - ->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -21,7 +21,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
+    <!- - Items - ->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
@@ -55,22 +55,17 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->
+
+ **We are  looking for passionate new PhD students, Master students, and undergraduates to join the team!**
 
 
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+The research and educational activities of HRG are supported by a diverse collection of government, industry, and academic partners along with a number of scholarship and fellowship programs. We continually strive to be the best stewards of this support any encourage any party interested in teaming with HRG to please contact [Prof. Huff](mailto:ghuff@psu.edu).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/afosr.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aro.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrl.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/onr.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.png" style="width: 110px">
 </figure>
