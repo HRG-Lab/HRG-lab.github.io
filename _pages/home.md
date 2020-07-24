@@ -59,13 +59,13 @@ Our research program is built around the premise that innovation is a hands-on a
 
  **We are  looking for passionate new PhD students, Master students, and undergraduates to join the team!**
 
-
+## Sponsorship, Collaboration, and Partnership
 The research and educational activities of HRG are supported by a diverse collection of government, industry, and academic partners along with a number of scholarship and fellowship programs. We continually strive to be the best stewards of this support any encourage any party interested in teaming with HRG to please contact [Prof. Huff](mailto:ghuff@psu.edu).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/afosr.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aro.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/afosr.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aro.jpeg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrl.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/onr.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/onr.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dod.png" style="width: 120px">
 </figure>
