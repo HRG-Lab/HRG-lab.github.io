@@ -9,7 +9,7 @@
 
 - name: Deanna Sessions
   photo: sessions-deanna.jpg
-  info: PhD Student, started Fall 2018, est. grad 2021
+  info: PhD Student, started 2018, exp. grad 2021
   email: dms1104@psu.edu
   number_educ: 2
   education1: MS, Electrical Engineering, Pennsylvania State University, 2019
@@ -17,7 +17,7 @@
 
 - name: Nick Mai
   photo: mai-nick.jpg
-  info: PhD Student, started Fall 2019, est. grad 2022
+  info: PhD Student, started 2019, exp. grad 2022
   email: nqm5487@psu.edu
   number_educ: 3
   education1: MS, Electrical Engineering, Johns Hopkins University, 2017
@@ -26,15 +26,15 @@
 
 - name: Bailey Campbell
   photo: campbell-bailey.jpg
-  info: PhD Student, started Fall 2018
+  info: PhD Student, started 2018
   email: baileycampbell@psu.edu
   number_educ: 2
-  education1: MS, Electrical Engineering, Johns Hopkins University, 2019
+  education1: MS, Electrical Engineering, Texas A&amp;M University, 2019
   education2: BS, Electrical Engineering, Texas A&amp;M University, 2017
 
 - name: Wenbo Liu
   photo: liu-wenbo.jpg
-  info: PhD Student, started Fall 2019
+  info: PhD Student, started 2019
   email: wzl37@psu.edu
   number_educ: 3
   education1: MEng, Electrical Engineering, Texas A&amp;M University, 2019
