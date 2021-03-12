@@ -1,1 +1,1 @@
-# Autonobot
+# Huff Research Group at the Pennsylvania State University

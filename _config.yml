@@ -1,10 +1,9 @@
 title: Autonobot
 author:
-  name: JF Chamberland
-  email: chmbrlnd@tamu.edu
+  name: Huff Research Group Website Admins
+  email: hrg-psu@psu.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Autonobot is first and foremost a philosophy, a community, and a culture.
-  It is an outlet for creativity for members with inquisitive mind.
+  An academic website for the Prof. Huff's research group, published with Jekyll. These aren't the #antennas you're looking for.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: jekyllrb
+    twitter: hrgpsu
     # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
