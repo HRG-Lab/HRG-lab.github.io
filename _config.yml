@@ -1,43 +1,59 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title: Autonobot
+author:
+  name: JF Chamberland
+  email: chmbrlnd@tamu.edu
+description: > # this means to ignore newlines until "show_excerpts:"
+  Autonobot is first and foremost a philosophy, a community, and a culture.
+  It is an outlet for creativity for members with inquisitive mind.
 
-# Site settings
-title: Huff Research Group
-email: ghuff@psu.edu
-description: > # this means to ignore newlines until "baseurl:"
-  The website for the Huff Research Group at Penn State University.
-baseurl: ""
-url: ""
+show_excerpts: false # set to true to show excerpts on the homepage
 
-include:
-  - .htaccess
-  - _pages
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-sass:
-  sass_dir: _sass
+  # generate social links in footer
+  social_links:
+    # twitter: jekyllrb
+    # github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+# Build settings
+theme: minima
 
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
