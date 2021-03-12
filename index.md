@@ -8,15 +8,7 @@ permalink: /index.html
 
 # Description
 
-Autonobot is a multi-disciplinary, project-based initiative that offers members a valuable and unique experience in autonomous vehicles, machine learning, and data science.
-It seeks to provide hands-on activities that complement traditional classroom experiences.
-Members are exposed to efficient design strategies and the latest technologies.
-In this learning experience, every participant is asked to research, contribute, and share.
-Topics include regression and classification; feature engineering and selection; optimization and regularization; and neural networks.
-This environment focuses on applications and involves working with curated and real data sets.
-It leverages an array of tools including [Git](https://git-scm.com/) and [GitHub](https://github.com/), [Python](https://www.python.org/), [Scipy](https://www.scipy.org/), [Jupyter](https://jupyter.org/) and [Google Colab](https://colab.research.google.com/).
-The focus is on modular projects, algorithms and implementation, and model training and deployment.
-In addition, emphasis is put on teamwork, presentation skills, time management, creativity, and innovation.
+The Huff Research Group is built around the premise that innovation is a hands-on activity. We leverage creativity and technical expertise to apply this philosophy and take our transformative concepts in engineering, art, science, and technology from theory into practice.
 
 
 ## Rationale
